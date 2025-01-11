@@ -37,9 +37,17 @@
     </tr>
     <tr>
       <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/flutter.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/fflow.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/kotlin.png" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_swift.png?raw=true" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/swiftUI.png" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_apple.png?raw=true" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/dart.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/jetpack.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/xamarin.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/mobile/ema.png" width="200"/></td>
     </tr>
     <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="200"/></td>
