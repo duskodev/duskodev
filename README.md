@@ -102,22 +102,22 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-## DApps & Online Betting Website
+### DApps & Online Betting Website
   <br />
   
-## Crypto Trading Platforms & Bots
+### Crypto Trading Platforms & Bots
   <br />
   
-## SaaS/CRM/CMS/E-Commerce Web & Mobile Application
+### SaaS/CRM/CMS/E-Commerce Web & Mobile Application
   <br />
   
-## Chatbot & Automation Integration
+### Chatbot & Automation Integration
   <br />
   
-## User-Friendly and Mobile First Design & SEO
+### User-Friendly and Mobile First Design & SEO
   <br />
   
-## High Quality Third-Party APIs Integration
+### High Quality Third-Party APIs Integration
   <br />
 
 </div>
