@@ -97,23 +97,29 @@
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-## WHAT CAN I PROVIDE YOU
+## What I can provide you
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 ### DApps & Online Betting Website
   <br />
+  
 ### Crypto Trading Platforms & Bots
   <br />
+  
 ### SaaS/CRM/CMS/E-Commerce Web & Mobile Application
   <br />
+  
 ### Chatbot & Automation Integration
   <br />
+  
 ### User-Friendly and Mobile First Design & SEO
   <br />
+  
 ### High Quality Third-Party APIs Integration
   <br />
+  
 ### Reasonable & Comprehensive Development Approach
   <br />
 
