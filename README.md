@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Developer +11 years Exp</h3>
 
-- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
+- 😎 Interested in contributing expertise in Web, Mobile, AI and Blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
