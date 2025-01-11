@@ -114,10 +114,7 @@
 ### Chatbot & Automation Integration
   <br />
   
-### User-Friendly and Mobile First Design & SEO
-  <br />
-  
-### High Quality Third-Party APIs Integration
+### High Quality Third-Party APIs Integration & User-Friendly and Mobile First Design & SEO
   <br />
 
 </div>
