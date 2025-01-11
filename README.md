@@ -122,6 +122,9 @@ High Quality Third-Party APIs Integration
   
 Reasonable & Comprehensive Development Approach
   <br />
+  
+Team Collaboration & Deadlines and Business Goals 
+  <br />
 
 </div>
 
