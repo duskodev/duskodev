@@ -23,9 +23,12 @@
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://iconscout.com/free-icon/ethereum-1" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/blockchain/ethereum.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/blockchain/solana.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/blockchain/toncoin.png" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/blockchain/dex.png" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
