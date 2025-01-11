@@ -23,7 +23,7 @@
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://www.flaticon.com/free-icon/ethereum_1777889" width="200"></td>
+      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg?v=040" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
@@ -35,6 +35,7 @@
     <tr>
       <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_swift.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" width="200"></td>
     </tr>
     <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="200"/></td>
