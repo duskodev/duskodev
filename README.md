@@ -124,6 +124,9 @@
     
   - Reliable Project Management & Timely Delivery
     <br />
+    
+  - Computer Vision and Decision-Making System Integration
+    <br />
 
 </div>
 
