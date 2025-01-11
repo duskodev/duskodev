@@ -126,7 +126,7 @@
 
 </div>
 
-<h1 align="left">Support:</h1>
+<h2 align="left">Support:</h2>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
