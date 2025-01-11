@@ -67,7 +67,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
     </tr>
     <tr>
-    <td><img src="https://github.com/duskodev/icons/tree/main/AI/pytorch.png?raw=true" width="200"/></td>
+    <td><img src="https://github.com/duskodev/icons/tree/main/AI/tensorflow.png?raw=true" width="200"/></td>
     </tr>
 </table>
 
