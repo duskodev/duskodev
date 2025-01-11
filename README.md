@@ -36,7 +36,7 @@
       <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_swift.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_android.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_app.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_apple.png?raw=true" width="200"></td>
     </tr>
     <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="200"/></td>
