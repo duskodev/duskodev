@@ -3,6 +3,9 @@
 <p align="center">
   <h3 align="center">Passionate AI web and mobile developer and blockchain engineer with over 10 years of expertise in designing, developing and maintaining high-performance apps.</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 - 😎 Interested in contributing expertise in Web, Mobile, AI and Blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
