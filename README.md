@@ -23,7 +23,7 @@
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=010" width="200"></td>
+      <td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=010" width="100"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
