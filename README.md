@@ -113,6 +113,9 @@
   - Chatbot & Automation Integration
     <br />
     
+  - Data Analysis & Generative AI & Image Precessing
+    <br />
+    
   - High Quality Third-Party APIs Integration
     <br />
     
