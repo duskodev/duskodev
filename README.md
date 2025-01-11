@@ -30,9 +30,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-    <td><img src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fsolana.fm%2Faddress%2FSo11111111111111111111111111111111111111112&psig=AOvVaw0ZHe6qvjSEGIJ-0L8CT3q-&ust=1736700581983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjhiuKO7ooDFQAAAAAdAAAAABAE" width="200"></td>
     </tr>
-  
     <tr>
       <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
     </tr>
