@@ -17,6 +17,9 @@
 </p>
 
 <p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
+<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
+<h1 align="center"></h1>
 
 ## My Skills
 
@@ -92,10 +95,6 @@
       <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/chatbot.png" width="200"/></td>
     </tr>
 </table>
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
-<h1 align="center"></h1>
 
 ## What I can provide you
 
