@@ -23,8 +23,9 @@
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg" height="200"></td>
-      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg?" height="200"></td>
+      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg" width="200"></td>
+      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg?" width="200"></td>
+      <td><img src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-diamond-purple.svg?" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
