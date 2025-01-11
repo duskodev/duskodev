@@ -67,7 +67,18 @@
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="200"/></td>
     </tr>
     <tr>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/pytorch.png" width="200"/></td>
     <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/tensorflow.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/keras.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/scikit.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/voiceflow.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/botpress.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/zapier.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/make_com.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/langchain.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/LLM.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/openCV.png" width="200"/></td>
+    <td><img src="https://raw.githubusercontent.com/duskodev/icons/refs/heads/main/AI/chatbot.png" width="200"/></td>
     </tr>
 </table>
 
