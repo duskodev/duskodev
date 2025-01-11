@@ -1,7 +1,7 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Agile Passinate Creative Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m an aAile, Passionate and Creative Developer! 👋</h1>
 
 <p align="center">
-  <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Developer +11 years Exp</h3>
+  <h3 align="center">Passionate AI web and mobile developer and blockchain engineer with over 10 years of expertise in designing, developing and maintaining high-performance apps.</h3>
 
 - 😎 Interested in contributing expertise in Web, Mobile, AI and Blockchain development
 
@@ -10,6 +10,8 @@
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
 - 📚 Love reading books on personal development & financial literacy.
+ 
+- ⭐ Prioritize team collaboration and passionate increasing customer satisfaction.
 
 - ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
